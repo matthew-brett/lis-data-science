@@ -1,21 +1,11 @@
 # Background reading
 
-This course has a rather different focus from many introductory courses to
-Python. Typical courses in Python are for people who want to learn
-"programming" in the abstract, and there are some very good books and online
-courses for this; see below for some suggestions.
-
 ## Python for scientific data analysis
 
-This course concentrates on using Python for data analysis, so it has a strong
-focus on the libraries that you need to get, select, visualize and analyze
-data. Unlike many courses on Python and data analysis, this course does not
-assume you have done any programming before. As yet there are no good printed
-books that we know if, that follow this scheme.  For online material, the
+For online material, the
 [Berkeley course in data science](https://www.inferentialthinking.com) is
-a very good introduction, that proceeds at a faster pace that we do.  You'll
-see that we have used a lot of their material for this course.  Berkeley has
-a various matching [Data Science EdX
+a very good introduction.  You'll see that we have used a lot of their material
+for this course.  Berkeley has a various matching [Data Science EdX
 courses](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science)
 that you can take for free.  You can also pay to take a formal certification on
 the same courses. The [Software Carpentry](https://software-carpentry.org)
@@ -28,18 +18,16 @@ in using Python, try the [Scipy Lectures](https://scipy-lectures.org).   If you
 know Python reasonably well, and you need an introduction to data science for
 Python, then [Jake VanderPlas'](http://vanderplas.com) [Python data science
 handbook](https://jakevdp.github.io/PythonDataScienceHandbook) is a good
-resource.  It is very clear, well-written, and up to date, but it is not
-suitable for a beginner in Python.
+resource.  It is very clear, well-written, and up to date, but it is designed for readers that know Python well.  If that is you, I highly recommend it.
 
 The definitive book on the Pandas data library is [Python for data
 analysis](https://wesmckinney.com/book) by Wes McKinney.  It is well-written,
-and a good reference, but you may find you need some background to get the best
-out of it.
+and a good reference.  Again, you'll get the most benefit from it as a reference, or if you already feel reasonably confident in using Python.
 
 ## Python programming in general
 
-You will find many good free online resources for learning Python programming
-in general.
+You will find many good free online resources for continuing your learning on
+Python programming in general.
 
 My current recommendation is a book and course by [Allen
 Downey](https://greenteapress.com/wp) that he first called "Think Like
@@ -57,8 +45,8 @@ edition](https://runestone.academy/runestone/books/published/thinkcspy/index.htm
 ## Principles of understanding data
 
 For good discussion of many important topics in understanding data, we highly
-recommend the book *Thinking Clearly with Data*, by Bueno de Mesquita and
-Fowler (2021).  You can [find this on
+recommend the book *Thinking Clearly with Data*, by Ethan Bueno de Mesquita and
+Anthony Fowler (2021).  You can [find this on
 Perlego](https://www.perlego.com/book/2646783/thinking-clearly-with-data-a-guide-to-quantitative-reasoning-and-analysis-pdf)
 if you have access.
 

@@ -1,32 +1,27 @@
 ## Your prior background
 
-Data science uses code to analyze messy data.  We aim to teach you that in the
-course.  To do the course, you do not need any previous experience of using
-code or computing programming.  We expect a large proportion of the students
-will be starting from scratch.
-
-One advantage of data science methods is that we can use code to express
-*algorithms* that the logical steps of the analysis.  It turns out that
-expressing our analysis in this way makes it possible to avoid much of the
-mathematics in data analysis and statistics.  We will use some simple
-mathematics in the course, but nothing beyond what you have learned in your
-secondary school / GCSE maths.
+Data science uses code to analyze messy data. One advantage of data science
+methods is that we can use code to express *algorithms* that the logical steps
+of the analysis.  It turns out that expressing our analysis in this way makes
+it possible to avoid much of the mathematics in data analysis and statistics.
+We will use some simple mathematics in the course, but nothing beyond what you
+have learned in your secondary school / GCSE maths.
 
 ## Mixtures of experience
 
-You do not need to have done any programming before, to take this course, but
-some of you will have some programming experience.  If that is you, you will
-find that you can go quickly through the early material in the course.  Your
-work, in those early parts of the course, are to help the others to learn.  In
-doing so, we think you will find that you get deeper understanding of
-programming, and of the material.
+One common issue that comes up when teaching data science is different levels
+of experience in using Python and programming.   If you are already comfortable
+with Python and Pandas, then you will find that you can go quickly through the
+early material in the course.  Your work, in those early parts of the course,
+are to help the others to learn.  In doing so, we think you will find that you
+get deeper understanding of programming, and of the material.
 
-If you do not have any previous experience of programming, you will find that
-you need more time to learn the ideas and let them sink in.  Learning a
-programming language is like learning any language, it takes time,
-concentration and repetition.   Keep trying things that are a little bit
-harder than you think you can manage.  It will be frustrating at first, but
-you will [learn the value of
+If you have less experience and confidence in programming, you will find that
+you need more time to learn the ideas and let them sink in.  Continued learning
+of a programming language is like learning any language, it takes time,
+concentration and repetition.   Keep trying things that are a little bit harder
+than you think you can manage.  It will be frustrating at first, but you will
+[learn the value of
 frustration](https://www.youtube.com/watch?v=JxwxefRAu70&feature=youtu.be&t=1803).
 
 In a word, be *patient*.

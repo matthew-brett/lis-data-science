@@ -1,4 +1,5 @@
-We have set up a system that allows you to use Python and Jupyter, from your web browser.
+We have set up a system that allows you to use Python and Jupyter, from your
+web browser.
 
 We do highly recommend you [install Python / Jupyter on your
 computer](https://matthew-brett.github.io/cfd2020/intro/the_software.html) but

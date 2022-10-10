@@ -5,7 +5,12 @@
 For online material, the
 [Berkeley course in data science](https://www.inferentialthinking.com) is
 a very good introduction.  You'll see that we have used a lot of their material
-for this course. The [Software Carpentry](https://software-carpentry.org)
+for this course. There is an archived but still usable online version of the
+Berkeley course, that you may be interested to follow, although it will have
+a moderate overlap with what we are teaching.  See the Cortex page on The
+Berkeley EdX Course.
+
+The [Software Carpentry](https://software-carpentry.org)
 organization has good online lessons that introduce various tools for using
 code in science, including an [introduction to
 Python](http://swcarpentry.github.io/python-novice-inflammation), although this

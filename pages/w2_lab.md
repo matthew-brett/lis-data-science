@@ -4,6 +4,8 @@
   water](https://en.wikipedia.org/wiki/Water_fluoridation)
 * [Fluoridation and tooth
   decay](https://www.cochrane.org/CD010856/ORAL_water-fluoridation-prevent-tooth-decay)
+* [Current UK position on
+  fluoridation](https://www.gov.uk/government/publications/health-and-care-bill-factsheets/health-and-care-bill-water-fluoridation)
 * [On evidence and
   authority](https://vinayprasadmdmph.substack.com/p/the-opposite-of-crazy-isnt-institutionalism)
 

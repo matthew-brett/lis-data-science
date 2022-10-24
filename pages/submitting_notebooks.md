@@ -28,7 +28,7 @@ satisfied.
 Next, download the file to your laptop, with the "Download as ..." item on the
 "File" menu.  Download the notebook as a "Notebook (.ipynb)" file:
 
-![]({{ link_base }}/images/jp_download_as.png)
+![Download as]({{ link_base }}/images/jp_download_as.png)
 
 Finally, upload the `.ipynb` file from your laptop as the submission for the assignment.
 

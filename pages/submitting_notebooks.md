@@ -11,7 +11,19 @@ Now fill in the notebook, following the instructions in the notebook.
 
 When you have finished, don't forget to save the notebook file:
 
-[Notebook save]({{ link_base }}/images/jp_save_checkpoint.png)
+![Notebook save]({{ link_base }}/images/jp_save_checkpoint.png)
+
+After you have saved the notebook, make sure that all the tests in the notebook
+run correctly, by selecting "Restart & Run All" from the "Kernel" menu.  This
+will re-run the notebook from the top to the bottom, with a fresh kernel.
+
+![Restart & Run All]({{ link_base }}/images/jp_restart_run_all.png)
+
+This is the same procedure we will use when marking your notebook.  Make sure
+all the tests that passed before, are still passing.  If they are not, make
+sure you haven't overwritten any of the variables that you used for the
+original tests.   Keep saving and doing "Restart & Run All" until you are
+satisfied.
 
 Next, download the file to your laptop, with the "Download as ..." item on the
 "File" menu.  Download the notebook as a "Notebook (.ipynb)" file:

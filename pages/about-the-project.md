@@ -1,11 +1,3 @@
----
-layout: single
-title: Project
-permalink: /project
----
-
-# Project
-
 ## Teams
 
 *   Teams of size 3 or 4.
@@ -32,20 +24,18 @@ Your email should have:
 * sketch your plan for the initial analysis, and the final results that you
   hope for.
 
-See the section "Describing data ..." in the [project data](project-data)
-page for more details on how to describe your data and what you want to do with it.
+See the section "Describing data ..." in the project data page for more details
+on how to describe your data and what you want to do with it.
 
 ## Data
 
-See [data for projects](project-data).
+See the projects data page.
 
-For pitching your data to your colleagues - see [data pitches](project-data-pitches).
+For pitching your data to your colleagues - see the data pitches page.
 
 ## Workload
 
-This term is 10 credits.  Each credit corresponds to 10 hours work, of which
-one hour is the lecture.  Unlike other courses, there is no exam to revise for,
-so the rest of the time is for the project.
+All your time outside class, that isn't filling in the exercise notebooks, should go into the project.
 
 You will find that, at the beginning of the project, this amount of work can
 seem daunting.  Please don't worry; if you work steadily, you will find things
@@ -80,7 +70,7 @@ selecting and plotting relevant data, and making an argument from the results.
 
 ## Suggested structure
 
-See the [rubric](project-rubric) for the requirements of your project files.
+See the project rubric for the requirements of your project files.
 This specifies that you must have a `README` file in some format, as the main
 instructions to reproduce your analysis.
 
@@ -102,11 +92,11 @@ In summary:
 *   Final report should be in the form of a Notebook, or similar
     executable document.
 
-See: [project workflow](projects-workflow)
+I will put up a project workflow page.
 
 ## Plagiarism
 
-See: [plagiarism rules](project-plagiarism)
+See: the plagiarism rules page.
 
 ## Using Python libraries
 
@@ -121,7 +111,7 @@ TAs.
 
 ## Marking
 
-See [the full grading rubric](project-rubric).
+See the full grading rubric on the assessment page (PDF).
 
 In summary:
 
@@ -135,21 +125,18 @@ In summary:
 
 | Week | Date       | Class                     |
 | ---- | ---------- | ------------------------- |
-| 1    | 1 Feb      | Start to form teams       |
-| 3    | 16 Feb     | Data pitches 1            |
-| 4    | 22 Feb     | Data pitches 2            |
-| 5    |  2 Mar     | Teams finalized           |
-| 9    | 19-23 Apr  | Progress reports          |
-| 12   | 10-15 May  | Presentations             |
-| 13   | 21 May     | Projects due              |
+| 7,8  | by 25 Nov  | Form teams                |
+| 10   | Week starting 5 Dec | Progress reports          |
+| 11   | Week starting 12 Dec | Presentations             |
+| 12   | 21 Dec     | Projects due              |
 
 ## Progress report
 
-See: [progress report](project-progress)
+See: the progress report page.
 
 ## Presentations
 
-See: [project presentations](project-presentation)
+See: project presentation page.
 
 ## Previous topics
 

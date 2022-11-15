@@ -16,6 +16,6 @@ Arrange the progress report to get you the most benefit to your project, but we 
 * What worked and what did not.
 * What you plan to do next.
 
-Please negotiate with your team about who prepares and does the
-progress report.  Of course, like all work on the project, this counts
-towards your project contribution \- see the [rubric](project-rubric).
+Please negotiate with your team about who prepares and does the progress
+report.  Of course, like all work on the project, this counts towards your
+project contribution \- see the rubric in the assessment page (PDF).

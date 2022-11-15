@@ -35,4 +35,4 @@ in reasonable detail.
 
 Please negotiate with your team about who prepares and does the
 presentation.  Like all work on the project, this counts towards your project
-contribution \- see the [rubric](project-rubric).
+contribution \- see the rubric in the assessment PDF.

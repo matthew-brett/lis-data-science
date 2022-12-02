@@ -4,9 +4,9 @@ We hope you will find these useful to get feedback about what to do next in your
 
 Please use them as a chance to organize your thoughts about what you are trying to do with your projects, and to get feedback on your ideas, and the approaches that you have tried so far.
 
-The progress report should be 7 minutes.  You can use the Jupyter Notebook, or
-other interactive Python code, or slide presentation software, or any mixture
-of these.
+The progress report should be 7 minutes.  You can use the Jupyter
+Notebook, or other interactive Python code, or slide presentation
+software, or any mixture of these.  We will leave a further 8 minutes for questions and discussion.
 
 Arrange the progress report to get you the most benefit to your project, but we suggest you use these headings:
 

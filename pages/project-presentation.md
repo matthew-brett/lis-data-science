@@ -8,9 +8,10 @@ permalink: /projects/presentation
 
 Your project presentations are, like your [progress reports](project-progress), short presentations on your project, to us, your instructors, and the rest of the class.
 
-The project presentation should be 7 minutes.  You can use the Jupyter Notebook, or
-other interactive Python code, or slide presentation software, or any mixture
-of these.
+The project presentation should be 7 minutes.  You can use the Jupyter
+Notebook, or other interactive Python code, or slide presentation software, or
+any mixture of these. We will leave a further 8 minutes for questions and
+discussion, for a total of 15 minutes.
 
 We will video the presentations, to make sure we grade them all in the same
 way.

@@ -129,6 +129,7 @@ In summary:
 | 10   | Week starting 5 Dec | Progress reports          |
 | 11   | Week starting 12 Dec | Presentations             |
 | 12   | 21 Dec     | Projects due              |
+| 12   | 23 Dec     | Personal contribution due              |
 
 ## Progress report
 
